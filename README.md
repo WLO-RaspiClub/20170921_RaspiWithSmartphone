@@ -19,7 +19,7 @@ WLOラズパイ倶楽部は、RaspberryPiやArduinoなどを使った 趣味の�
 　　https://github.com/WLO-RaspiClub/20170713_LetsStartRaspi
 　を参考にしてください）<br>
 ・設定用のHDMIモニタとUSBキーボード/マウス<br>
-  (初期設定時のみ使います、モニタはWLOでもいくつか準備します)<br>
+　(初期設定時のみ使います、モニタはWLOでもいくつか準備します)<br>
 ・普段お使いのスマートフォン(テザリングできるもの)<br>
 ・Raspberry Piとスマートフォンを接続するUSBケーブル<br>
 　(Lightning/MicroUSB、充電専用でないもの)<br>
@@ -54,13 +54,13 @@ Raspbian導入済みMicroSDカード<br>
 　　https://github.com/WLO-RaspiClub/20170713_LetsStartRaspi
 　を参考にしてください）<br>
 ・設定用のHDMIモニタとUSBキーボード/マウス<br>
-  (初期設定時のみ使います、モニタはWLOでもいくつか準備します)<br>
+　(初期設定時のみ使います、モニタはWLOでもいくつか準備します)<br>
 ・普段お使いのスマートフォン(テザリングできるもの)<br>
 ・Raspberry Piとスマートフォンを接続するUSBケーブル<br>
 　(Lightning/MicroUSB、充電専用でないもの)<br>
 ・GPIOに刺すLED/プッシュスイッチ(以前の会で配布したものをお持ちの方)<br>
 
-２．見学でのの参加も可能です。
+２．見学のみの参加も可能です。
 
 ## 参加対象
 社内/社外参加OKです<br>
