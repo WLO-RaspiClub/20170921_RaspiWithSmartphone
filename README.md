@@ -1,0 +1,2 @@
+# 20170921_RaspiWithSmartphone
+2017年9月21日開催予定の「WLOラズパイ倶楽部　スマホと使うRaspberry Pi」イベントリポジトリ
