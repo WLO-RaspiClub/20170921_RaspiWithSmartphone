@@ -2,7 +2,7 @@
 ## 「WLOラズパイ倶楽部　スマホと使うRaspberry Pi」
 
 ## Peatix イベント申し込みページ
-http://wloraspi170921.peatix.com/
+http://wloraspi170921.peatix.com
 
 ## 詳細
 WLOラズパイ倶楽部は、RaspberryPiやArduinoなどを使った 趣味の電子工作に興味ある有志の集まりです。 
