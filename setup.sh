@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo apt-get install -y ipheth-utils libimobiledevice-utils ifuse usbmuxd
+sudo mkdir /media/iphone
+sudo echo 'user_allow_other' >> /etc/fuse.conf
